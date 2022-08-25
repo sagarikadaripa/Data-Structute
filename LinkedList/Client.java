@@ -8,6 +8,8 @@ public class Client {
         LinkedList list = new LinkedList();
         
      
+
+        
         list.addElementFirst(12);
         list.addElementFirst(212);
         list.display();;
